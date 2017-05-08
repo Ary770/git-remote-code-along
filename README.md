@@ -1,1 +1,1 @@
-puts "Awesome!"
+puts "Awesome and Cool!"
